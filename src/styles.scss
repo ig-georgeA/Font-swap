@@ -5,7 +5,7 @@
 @use "igniteui-angular/theming" as *;
 
 @include core();
-@include typography($font-family: "Open Sans", $type-scale: $fluent-type-scale);
+@include typography($font-family: "Source Sans Pro", $type-scale: $fluent-type-scale);
 
 $custom-palette: palette(
   $primary: #00A5CC,
